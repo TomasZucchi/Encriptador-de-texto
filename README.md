@@ -1,3 +1,2 @@
 # BIENVENIDO AL ENCRIPTADOR
-
-El siguiente archivo son los códigos con los que realice mi primer proyecto de programación,  la previsualización directa la puede encontrar [aqui](https://diegollanosr.github.io/encriptadorONE/).
+La previsualización directa la puede encontrar [aqui](https://tomaszucchi.github.io/Encriptador-de-texto/).
